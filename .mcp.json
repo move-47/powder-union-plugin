@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powder-union": {
+      "type": "http",
+      "url": "https://powderunion.eu/api/mcp"
+    }
+  }
+}

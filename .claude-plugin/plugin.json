@@ -1,0 +1,10 @@
+{
+  "name": "powder-union",
+  "displayName": "Powder Union",
+  "version": "1.0.0",
+  "description": "Snow reports for 650+ European ski resorts: recent snowfall, 10-day forecasts, the best day to go and season totals vs normal, plus skills for checking a resort, finding the best snow and a weekly snow briefing.",
+  "author": { "name": "Powder Union", "url": "https://powderunion.eu", "email": "hello@move47.co" },
+  "homepage": "https://powderunion.eu/about#developers",
+  "license": "MIT",
+  "keywords": ["ski", "snow", "weather", "travel", "europe", "alps"]
+}
